@@ -1,0 +1,4 @@
+[webservers]
+Redhat-node2 ansible_host=54.242.54.71 ansible_user=ec2-user
+ubuntu-node1 ansible_host=3.94.169.170 ansible_user=ubuntu
+control-awslinux-node ansible_host=3.88.102.215 ansible_user=ec2-user
